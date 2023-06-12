@@ -1,3 +1,6 @@
+Kod gry zotał wygenerowany przez Chat GPT.
+Grafika początkowa została wygenerowana za pomocą AI Greem.
+
 Dokumentacja gry "Wąż"
 Opis
 
